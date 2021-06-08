@@ -27,10 +27,9 @@ Different areas can increase the richness of the scene.
 
 **Game scene  :**
 
-Let's start！
 
 
-<img src="https://cdn-images-1.medium.com/max/1600/1*zL-ieNlgMVbMgFNLIcEmcA.gif">
+<img src="https://miro.medium.com/max/7168/1*uZ1A9PyVq7WOcFdzhSXA4A.png">
 
 
 Beginning:
