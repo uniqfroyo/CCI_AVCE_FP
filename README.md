@@ -63,17 +63,6 @@ Beginning:
 
 
 
-
-**Code walkthrough :**
-
-
-
-
-
-
-
-
-
 **Video :**
 [Playground](https://youtu.be/EGlConYFghU)
 [Bug](https://youtu.be/TJs_AoC-zEA)
@@ -82,6 +71,7 @@ Beginning:
 
 **Devlog :** [link](https://daiyi2894264120.medium.com/guideline-for-player-39d5beddddec)
 
+**ProcessBlog :** [link](https://daiyi2894264120.medium.com/cci-avce-fp-kikiandwawa-92614f5bfbde)
 
 
 
