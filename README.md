@@ -78,9 +78,9 @@ Beginning:
 
 
 
+**Devlog :**
 
-
-
+https://daiyi2894264120.medium.com/guideline-for-player-39d5beddddec
 
 
 
