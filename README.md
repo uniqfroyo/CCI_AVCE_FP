@@ -75,6 +75,7 @@ Beginning:
 
 **Video :**
 [Playground](https://youtu.be/EGlConYFghU)
+[Bug](https://youtu.be/TJs_AoC-zEA)
 
 
 
