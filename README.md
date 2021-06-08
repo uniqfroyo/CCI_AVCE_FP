@@ -19,10 +19,10 @@ It‘s a hide-and-seek game. Two characters ' Kiki '  and  ' Wawa ' are good fri
 
 **Guideline for player :**
 
-Different areas can increase the richness of the scene.
 
 <img src="https://miro.medium.com/max/3464/1*4kK9kY7u1b5T5YEXG-F3tQ.png">
 
+<img src="https://miro.medium.com/max/4044/1*NMkj2CjPCnyCjkykllgUdg.png">
 
 
 **Game scene  :**
