@@ -63,7 +63,7 @@ Beginning:
 
 
 
-**Code walkthrough : **
+**Code walkthrough :**
 
 
 
@@ -73,7 +73,7 @@ Beginning:
 
 
 
-**Video : **
+**Video :**
 
 
 
