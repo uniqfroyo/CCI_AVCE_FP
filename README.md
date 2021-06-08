@@ -1,9 +1,9 @@
 # CCI_S3_Advanced Visualisation and Computational Environments_Final
 
-**KiKi and WaWa **
+**KiKi and WaWa**
 
 
-**The style of our environment : **
+**The style of our environment :**
 
 Low poly art uses the minimal amount of polygons possible to define the shape of an object.  We then apply normal maps, occlusion maps, textures, lighting tricks etc to make the object seem like it has a lot of detail.
 
