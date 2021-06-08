@@ -2,6 +2,8 @@
 
 **KiKi and WaWa**
 
+Brief: Kiki and Wawa are travelers in the world. They explore the world and meet different friends. This is a simple scenario in the game. Players need to control Kiki to find friends: Dogknight, in order to learn new skills. Players can move freely in the world and can also interact with different objects.
+
 
 **The style of our environment :**
 
